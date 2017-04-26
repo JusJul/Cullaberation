@@ -7,6 +7,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class Main extends JavaPlugin implements Listener {
 	
 	public void onEnable() {
+		Bukkit.getLogger().info("HAHA");
 		Bukkit.getServer().getPluginManager().registerEvents(this, this);
 	}
 	
