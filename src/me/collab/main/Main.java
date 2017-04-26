@@ -11,3 +11,12 @@ public class Main extends JavaPlugin implements Listener {
 	}
 	
 }
+/*
+ * 
+ * 
+ * 
+ * 			HIER KAN JE UITLEG GOOIEN OVEWWR DINGEN
+ * 
+ * 
+ * 
+*/
