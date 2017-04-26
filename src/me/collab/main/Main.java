@@ -16,7 +16,10 @@ public class Main extends JavaPlugin implements Listener {
  * 
  * 
  * 			HIER KAN JE UITLEG GOOIEN OVEWWR DINGEN
- * 
+ * if (1 + 1 != 2) {
+ * break.math!();
+ * world.end
+ * }
  * 
  * 
  * 
